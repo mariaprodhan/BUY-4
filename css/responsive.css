@@ -1,0 +1,264 @@
+@media(max-width:575px){
+    #header {
+        font-size: 4px;
+      }
+      .header-left a{
+        font-size: 4px;
+      }
+      .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+      }
+      .menu-bg ul li a{
+        font-size: 5px;
+        padding: 0 5px;
+      }
+      .navbar-nav{
+        flex-direction: row;
+      }
+      .menu-bg img{
+        width: 40%;
+      }
+      .menu-bg i{
+        font-size: 10px;
+      }
+      .navbar-toggler{
+        border: none;
+      }
+      .nev-icon i{
+        font-size: 5px;
+      }
+      .nev-icon p{
+        font-size: 8px;
+      }
+      .nev-iconi{
+        margin: 5px 10px 0 0;
+    }
+    .menu-bg ul li a::after{
+      width: 10px !important;
+      left: 5px !important;
+    }
+    .menu-bg ul li a::before{
+      width: 5px !important;
+      left: 5px !important;
+      top: 120%;
+    }
+    .nev-icon {
+        margin-top: -20px;
+    }
+    .nev-icon2{
+        margin-right: 10px !important;
+    }
+    .banner-text h4{
+        font-size: 12px;
+    }
+    .banner-text p{
+        font-size: 8px;
+        padding-top: 2px;
+    }
+    .banner-text a{
+        padding-top: 3px;
+        font-size: 8px;
+    }
+    .banner-text i{
+        font-size: 8px;
+        padding-top: 7px !important;
+    }
+    
+}
+@media(min-width:576px) and  (max-width:767px){
+    .header-left{
+        margin-right: 30px !important;
+      }
+      .header-left a{
+        font-size: 8px;
+      }
+      .header-right{
+        margin-left: 50px !important;
+      }
+      .header-right a{
+        font-size: 8px;
+        
+      }
+      .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+      }
+      .menu-bg ul li a{
+        font-size: 10px;
+        padding: 0 5px;
+      }
+      .navbar-nav{
+        flex-direction: row;
+      }
+      .menu-bg img{
+        width: 80%;
+      }
+      .menu-bg i{
+        font-size: 10px;
+      }
+      .nev-icon i{
+        font-size: 10px;
+      }
+      .nev-icon p{
+        font-size: 13px;
+      }
+      .nev-iconi{
+        margin: 5px 10px 0 0;
+    }
+    .menu-bg ul li a::after{
+      width: 10px !important;
+      left: 5px !important;
+    }
+    .menu-bg ul li a::before{
+      width: 5px !important;
+      left: 5px !important;
+      top: 120%;
+    }
+    .navbar-toggler i{
+        font-size: 20px !important;
+    }
+    .nev-icon{
+        margin-top: -22px;
+        margin-left: 350px !important;
+    }
+    .nev-icon2{
+        margin-right: 10px !important;
+    }
+    .t-head{
+        padding: 8px !important;
+    }
+    .text h6{
+        font-size: 8px !important;
+    }
+    .text p{
+        font-size: 5px !important;
+    }
+    .icon{
+        font-size: 8px !important;
+    }
+    .table-right{
+        margin-top: 40px;
+        text-align: center;
+        justify-content: center;
+    }
+    input{
+       margin-left: 120px;
+    }
+    .t-r-table{
+       margin-left: 80px;
+    }
+    .pathner-main{
+        margin: 10px 0 !important;
+    }
+    .pathner-main1{
+       padding: 0 100px !important;
+       margin-top: 50px !important;
+    }
+    /* .pathner-main2{
+        padding-right: 100px;
+        margin-top: 50px !important;
+    } */
+    #footer{
+      margin-top: 50px !important;
+    }
+    .copy-text1{
+        text-align: center !important;
+    }
+    .footer-text{
+        margin-bottom: 40px;
+    }
+    .contact-main h4{
+        padding-bottom: 10px !important;
+    }
+    .account-main h4{
+        padding-bottom: 10px !important;
+    }
+    .footer-right h4{
+        padding-bottom: 10px !important;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .header-left{
+        margin-right: 30px !important;
+      }
+      .header-left a{
+        font-size: 10px;
+      }
+      .header-right{
+        margin-left: 50px !important;
+      }
+      .header-right a{
+        font-size: 10px;
+        
+      }
+      .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+      }
+      .menu-bg ul li a{
+        font-size: 10px;
+        padding: 10px 5px;
+      }
+      .menu-bg img{
+        width: 80%;
+      }
+      .menu-bg i{
+        font-size: 10px;
+      }
+      .nev-icon i{
+        font-size: 10px;
+      }
+      .nev-icon p{
+        font-size: 13px;
+      }
+      .nev-iconi{
+        margin: 5px 10px 0 0;
+    }
+    .menu-bg ul li a::after{
+      width: 10px !important;
+      left: 5px !important;
+    }
+    .menu-bg ul li a::before{
+      width: 5px !important;
+      left: 5px !important;
+      top: 120%;
+    }
+    .navbar-toggler i{
+        font-size: 20px !important;
+    }
+    .nev-icon{
+        margin-left: 5px !important;
+    }
+    .nev-icon2{
+        margin-right: 10px !important;
+    }
+    .t-r-text h2{
+        margin-top: 60px;
+    }
+    .pathner-main{
+        margin: 10px 0 !important;
+    }
+    .pathner-main1{
+        padding: 0 200px;
+        margin-top: 80px !important;
+    }
+    #footer{
+        margin-top: 80px;
+    }
+    .account-head1{
+        margin-top: 50px;
+    }
+    .copy-text1{
+        text-align: center !important;
+    }
+
+}
+@media(min-width:992px) and (max-width:1199px){
+    .nev-icon{
+        margin-left: 100px !important;
+      }
+}
+@media(min-width:1200px) and (max-width:1399){
+
+}
+@media(min-width:1400px){
+
+}
